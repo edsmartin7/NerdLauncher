@@ -35,3 +35,9 @@ public class NerdLauncherActivity extends SingleFragmentActivity{
 //https://stackoverflow.com/questions/26574277/how-to-override-method-via-keyboard-shortcut-in-android-studio
 //proper gitignore
 //https://github.com/github/gitignore
+//https://stackoverflow.com/questions/16736856/what-should-be-in-my-gitignore-for-an-android-studio-project
+//git line separators (auto fixed)
+//https://help.github.com/articles/dealing-with-line-endings/
+//android studio and git
+//https://www.coursera.org/learn/internet-of-things-dragonboard/lecture/MaU6e/a-look-back-at-lesson-3
+
